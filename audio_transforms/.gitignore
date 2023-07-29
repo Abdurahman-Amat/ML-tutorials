@@ -1,0 +1,4 @@
+*
+!.gitignore
+!audio_transforms.ipynb
+!common_voice_en*
